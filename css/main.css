@@ -35,7 +35,7 @@ body {
 /* HERO SECTION */
 .hero-container-box {
   height: 800px;
-  background-image: url("img/hero-bg.svg");
+  background-image: url("/img/hero-bg.svg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
